@@ -10,20 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bulma": "^0.7.4",
-    "font-awesome": "^4.7.0",
-    "parallax-js": "^3.1.0",
-    "sass": "^1.19.0",
-    "scroll-parallax": "^3.0.3",
-    "smooth-scroll": "^16.0.3",
-    "vue-cli": "^2.9.6"
+
   },
   "devDependencies": {
-    "ajax": "0.0.4",
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.0",
-    "lite-server": "^2.4.0",
-    "node-sass": "^4.11.0",
-    "scss": "^0.2.4"
+
   }
 }
